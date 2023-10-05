@@ -1,3 +1,5 @@
+#MLOPS-stable
+
 # EC2 Management Repository
 
 This repository contains scripts to manage EC2 instances using Terraform and a Python wrapper.
